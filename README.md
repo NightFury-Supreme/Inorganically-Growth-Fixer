@@ -16,7 +16,7 @@ This Discord bot is designed to help manage your bot's presence in servers by id
 1. Clone this repository.
 
     ```bash
-    git clone https://github.com/NightFury-Supreme/Inorganically-Growth-Fixer.git
+    git clone https://github.com/your_username/discord-bot-server-management.git
     cd discord-bot-server-management
     ```
 
@@ -42,6 +42,11 @@ This Discord bot is designed to help manage your bot's presence in servers by id
 
 Ensure you have completed the installation steps and have the bot running. The bot will automatically identify and leave servers owned by users with more than three servers.
 
+## Node.js and Discord.js Versions
+
+- Node.js: 14.x (or higher)
+- Discord.js: 13.x (or higher)
+
 ## Contributing
 
 If you'd like to contribute to this project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
@@ -49,5 +54,3 @@ If you'd like to contribute to this project, please follow the [Contributing Gui
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
