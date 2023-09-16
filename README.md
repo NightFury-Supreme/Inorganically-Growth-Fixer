@@ -16,8 +16,8 @@ This Discord bot is designed to help manage your bot's presence in servers by id
 1. Clone this repository.
 
     ```bash
-    git clone https://github.com/your_username/discord-bot-server-management.git
-    cd discord-bot-server-management
+    git clone https://github.com/NightFury-Supreme/Inorganically-Growth-Fixer.git
+    cd Inorganically-Growth-Fixer
     ```
 
 2. Create a `.env` file and add your bot token.
