@@ -1,5 +1,5 @@
 hidden = [".config"]
-run = "node index.js"
+run = "node index.j"
 
 [[hints]]
 regex = "Error \\[ERR_REQUIRE_ESM\\]"
